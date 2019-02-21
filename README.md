@@ -1,4 +1,4 @@
-nltk, language models, part-of-speech tagging (Viterbi), neural network
+nltk, language models, part-of-speech tagging (Viterbi), neural networks
 
-Naive Bayes, recurrent neural network, pretrained word embedding, bidirectional LSTM
+Naive Bayes, recurrent neural networks, pretrained word embedding, bidirectional LSTM
 
