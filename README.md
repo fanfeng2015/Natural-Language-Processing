@@ -3,3 +3,4 @@
 3. ... 
 4. semantic parsing, text-to-SQL, SQLNet
 5. neural machine translation with seq2seq, seq2seq + attention, transformer
+
